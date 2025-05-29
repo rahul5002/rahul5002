@@ -3,13 +3,13 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul5002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul5002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
 
-<img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8db346b9-9453-4fcf-9c0c-5be98bbfe8fa/dgduof2-f0868bd0-3855-43a4-9672-e64d3d6d3f56.jpg/v1/fill/w_665,h_1201,q_70,strp/anime_boy_character_by_hajhussainf16_dgduof2-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkYjM0NmI5LTk0NTMtNGZjZi05YzBjLTViZTk4YmJmZThmYVwvZGdkdW9mMi1mMDg2OGJkMC0zODU1LTQzYTQtOTY3Mi1lNjRkM2Q2ZDNmNTYuanBnIiwiaGVpZ2h0IjoiPD0xODQ3Iiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvOGRiMzQ2YjktOTQ1My00ZmNmLTljMGMtNWJlOThiYmZlOGZhXC9oYWpodXNzYWluZjE2LTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.tL0niq-nSIiZi8FZMKFh0tzVNrM1a-LpY1h4LZZX_pk"  />
+<img align="right" height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8db346b9-9453-4fcf-9c0c-5be98bbfe8fa/dgduof2-f0868bd0-3855-43a4-9672-e64d3d6d3f56.jpg/v1/fill/w_665,h_1201,q_70,strp/anime_boy_character_by_hajhussainf16_dgduof2-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkYjM0NmI5LTk0NTMtNGZjZi05YzBjLTViZTk4YmJmZThmYVwvZGdkdW9mMi1mMDg2OGJkMC0zODU1LTQzYTQtOTY3Mi1lNjRkM2Q2ZDNmNTYuanBnIiwiaGVpZ2h0IjoiPD0xODQ3Iiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvOGRiMzQ2YjktOTQ1My00ZmNmLTljMGMtNWJlOThiYmZlOGZhXC9oYWpodXNzYWluZjE2LTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.tL0niq-nSIiZi8FZMKFh0tzVNrM1a-LpY1h4LZZX_pk"  />
 
 
 
