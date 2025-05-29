@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  push:
+    branches: [main] # Change to 'master' if that's your default branch
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: rahul5002
+          outputs: output/snake.svg
+      - name: Verify snake.svg
+        run: ls -l output/snake.svg
+      - name: Commit snake animation
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/rahul5002/rahul5002.git
+          git add output/snake.svg
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
