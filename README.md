@@ -1,7 +1,7 @@
 <h2 style="text-align: left;">Hi 👋! My name is Rahul Mankani and I'm a 2nd Year B.Tech C.S.E Student, from UPES</h2>
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul5002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" style="max-height: 150px;" alt="GitHub contribution stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul5002&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" style="max-height: 150px;" alt="GitHub contribution stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul5002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" style="max-height: 150px;" alt="Top programming languages" />
 </div>
 
