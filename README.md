@@ -24,4 +24,4 @@
 
 <div style="clear: both;"></div>
 
-<img src="https://github.com/rahul5002/rahul/output/main/snake.yml" alt="GitHub contribution snake animation" />
+<img src="https://github.com/rahul5002/rahul5002/blob/main/output/snake.svg" alt="GitHub contribution snake animation" />
