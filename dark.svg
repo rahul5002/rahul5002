@@ -98,7 +98,7 @@
     <!-- Sequential Info Reveal -->
     <g transform="translate(0, 140)" font-size="16" fill="#94A3B8">
       <text x="0" y="0" opacity="0">📍 Location: Dehradun, India <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1s" fill="freeze"/></text>
-      <text x="0" y="35" opacity="0">🎓 Education: 2nd Year B.Tech CSE @ UPES <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.5s" fill="freeze"/></text>
+      <text x="0" y="35" opacity="0">🎓 Education: 3rd Year B.Tech CSE @ UPES <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.5s" fill="freeze"/></text>
       <text x="0" y="70" opacity="0">🎯 Focus: Net Defense, Pen Testing &amp; Software Eng. <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2s" fill="freeze"/></text>
       <text x="0" y="105" opacity="0">✉️ Email: mankanirahul@gmail.com <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.5s" fill="freeze"/></text>
     </g>
