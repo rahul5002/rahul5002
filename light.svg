@@ -30,7 +30,7 @@
     <!-- Typing Animation Clip Paths -->
     <clipPath id="typewriter">
       <rect x="0" y="0" width="0" height="40">
-        <animate attributeName="width" values="0; 300; 300; 0" keyTimes="0; 0.3; 0.8; 1" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0; 350; 350; 0" keyTimes="0; 0.3; 0.8; 1" dur="4s" repeatCount="indefinite" />
       </rect>
     </clipPath>
   </defs>
@@ -67,63 +67,81 @@
   <!-- RIGHT SIDE: Terminal -->
   <g transform="translate(520, 100)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">
     <!-- Greeting -->
-    <text x="0" y="0" font-size="20" fill="#475569" font-weight="500">Hi, I'm</text>
-    <text x="0" y="40" font-size="42" fill="#0F172A" font-weight="800">Your Name</text>
+    <text x="0" y="0" font-size="20" fill="#475569" font-weight="500">Hi 👋! I'm</text>
+    <text x="0" y="40" font-size="42" fill="#0F172A" font-weight="800">Rahul Mankani</text>
 
     <!-- Typing Roles -->
     <g transform="translate(0, 60)">
       <text x="0" y="30" font-size="24" font-weight="700" fill="url(#textGradient)" clip-path="url(#typewriter)">
-        <tspan opacity="1">Frontend Engineer
+        <tspan opacity="1">B.Tech CSE Student
           <animate attributeName="opacity" values="1;0;0" keyTimes="0;0.33;1" dur="12s" repeatCount="indefinite"/>
         </tspan>
       </text>
       <text x="0" y="30" font-size="24" font-weight="700" fill="url(#textGradient)" clip-path="url(#typewriter)">
-        <tspan opacity="0">Full Stack Developer
+        <tspan opacity="0">Cybersecurity Enthusiast
           <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.33;1" dur="12s" repeatCount="indefinite"/>
         </tspan>
       </text>
       <text x="0" y="30" font-size="24" font-weight="700" fill="url(#textGradient)" clip-path="url(#typewriter)">
-        <tspan opacity="0">AI Enthusiast
+        <tspan opacity="0">UPES ACM Event Head
           <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.66;1" dur="12s" repeatCount="indefinite"/>
         </tspan>
       </text>
       <!-- Blinking Cursor -->
       <rect x="0" y="7" width="12" height="28" fill="#2563EB">
-        <animate attributeName="x" values="0; 250; 250; 0" keyTimes="0; 0.3; 0.8; 1" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="x" values="0; 290; 290; 0" keyTimes="0; 0.3; 0.8; 1" dur="4s" repeatCount="indefinite" />
         <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
       </rect>
     </g>
 
     <!-- Sequential Info Reveal -->
     <g transform="translate(0, 140)" font-size="16" fill="#475569">
-      <text x="0" y="0" opacity="0">📍 Location: Earth <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1s" fill="freeze"/></text>
-      <text x="0" y="35" opacity="0">🎓 Education: CS Degree <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.5s" fill="freeze"/></text>
-      <text x="0" y="70" opacity="0">🎯 Focus: Open Source &amp; UI <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2s" fill="freeze"/></text>
-      <text x="0" y="105" opacity="0">✉️ Email: hello@example.com <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.5s" fill="freeze"/></text>
+      <text x="0" y="0" opacity="0">📍 Location: Dehradun, India <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1s" fill="freeze"/></text>
+      <text x="0" y="35" opacity="0">🎓 Education: 3rd Year B.Tech CSE @ UPES <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.5s" fill="freeze"/></text>
+      <text x="0" y="70" opacity="0">🎯 Focus: Net Defense, Pen Testing &amp; Software Eng. <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2s" fill="freeze"/></text>
+      <text x="0" y="105" opacity="0">✉️ Email: mankanirahul@gmail.com <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.5s" fill="freeze"/></text>
     </g>
 
     <!-- Skills Section (Glowing Pills) -->
     <g transform="translate(0, 280)">
       <text x="0" y="0" font-size="14" fill="#0F172A" font-weight="600" letter-spacing="2">TECH STACK</text>
       
-      <!-- Pill 1: React -->
+      <!-- Row 1 -->
       <g transform="translate(0, 20)">
         <rect width="80" height="32" rx="16" fill="#FFFFFF" stroke="rgba(15,23,42,0.1)"/>
-        <text x="40" y="21" font-size="14" fill="#475569" text-anchor="middle" font-weight="500">React</text>
+        <text x="40" y="21" font-size="14" fill="#475569" text-anchor="middle" font-weight="500">Python</text>
         <set attributeName="transform" to="scale(1.05)" begin="mouseover" end="mouseout" />
       </g>
-
-      <!-- Pill 2: TypeScript -->
       <g transform="translate(95, 20)">
-        <rect width="110" height="32" rx="16" fill="#FFFFFF" stroke="rgba(15,23,42,0.1)"/>
-        <text x="55" y="21" font-size="14" fill="#475569" text-anchor="middle" font-weight="500">TypeScript</text>
+        <rect width="70" height="32" rx="16" fill="#FFFFFF" stroke="rgba(15,23,42,0.1)"/>
+        <text x="35" y="21" font-size="14" fill="#475569" text-anchor="middle" font-weight="500">Java</text>
+        <set attributeName="transform" to="scale(1.05)" begin="mouseover" end="mouseout" />
+      </g>
+      <g transform="translate(180, 20)">
+        <rect width="60" height="32" rx="16" fill="#FFFFFF" stroke="rgba(15,23,42,0.1)"/>
+        <text x="30" y="21" font-size="14" fill="#475569" text-anchor="middle" font-weight="500">C</text>
+        <set attributeName="transform" to="scale(1.05)" begin="mouseover" end="mouseout" />
+      </g>
+      <g transform="translate(255, 20)">
+        <rect width="105" height="32" rx="16" fill="#FFFFFF" stroke="rgba(15,23,42,0.1)"/>
+        <text x="52.5" y="21" font-size="14" fill="#475569" text-anchor="middle" font-weight="500">JavaScript</text>
         <set attributeName="transform" to="scale(1.05)" begin="mouseover" end="mouseout" />
       </g>
 
-      <!-- Pill 3: Next.js -->
-      <g transform="translate(220, 20)">
+      <!-- Row 2 -->
+      <g transform="translate(0, 65)">
+        <rect width="70" height="32" rx="16" fill="#FFFFFF" stroke="rgba(15,23,42,0.1)"/>
+        <text x="35" y="21" font-size="14" fill="#475569" text-anchor="middle" font-weight="500">SQL</text>
+        <set attributeName="transform" to="scale(1.05)" begin="mouseover" end="mouseout" />
+      </g>
+      <g transform="translate(85, 65)">
         <rect width="90" height="32" rx="16" fill="#FFFFFF" stroke="rgba(15,23,42,0.1)"/>
-        <text x="45" y="21" font-size="14" fill="#475569" text-anchor="middle" font-weight="500">Next.js</text>
+        <text x="45" y="21" font-size="14" fill="#475569" text-anchor="middle" font-weight="500">MongoDB</text>
+        <set attributeName="transform" to="scale(1.05)" begin="mouseover" end="mouseout" />
+      </g>
+      <g transform="translate(190, 65)">
+        <rect width="100" height="32" rx="16" fill="#FFFFFF" stroke="rgba(15,23,42,0.1)"/>
+        <text x="50" y="21" font-size="14" fill="#475569" text-anchor="middle" font-weight="500">Kali Linux</text>
         <set attributeName="transform" to="scale(1.05)" begin="mouseover" end="mouseout" />
       </g>
     </g>
