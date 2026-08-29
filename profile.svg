@@ -119,7 +119,7 @@
       </text>
 
       <rect x="0" y="7" width="12" height="28" fill="#22D3EE">
-        <animate attributeName="x" values="0; 290; 290; 0" keyTimes="0; 0.3; 0.8; 1" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="x" values="0; 290; 290; 0" keyTimes="0.3; 0.3; 1" dur="4s" repeatCount="indefinite" />
         <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
       </rect>
     </g>
